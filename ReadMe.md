@@ -10,12 +10,19 @@ The interface is powered by **Streamlit**, offering a simple yet powerful intera
 
 ## Project Structure
 ├── app.py # Streamlit app script
+
 ├── movies_list.pkl # Pickle of processed movie DataFrame
+
 ├── similarity.pkl # Cosine similarity matrix
+
 ├── tmdb_5000_movies.csv # Original movie metadata from TMDB
+
 ├── tmdb_5000_credits.csv # Cast and crew data from TMDB
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 └── .gitignore
 
 
